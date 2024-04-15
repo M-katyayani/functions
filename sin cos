@@ -1,0 +1,11 @@
+import math
+
+def calculate_sin(angle_in_degrees):
+    
+    angle_in_radians = math.radians(angle_in_degrees)
+    return math.sin(angle_in_radians)
+
+def calculate_cos(angle_in_degrees):
+   
+    angle_in_radians = math.radians(angle_in_degrees)
+    return math.cos(angle_in_radians)
