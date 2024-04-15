@@ -1,0 +1,5 @@
+def multiply(a, b):
+    return a * b
+output=12
+a=6
+b=2
